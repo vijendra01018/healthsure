@@ -1,0 +1,6 @@
+{
+  "name": "MediGuide AI",
+  "description": "Smart, visual healthcare education platform providing interactive human body exploration, safe symptom guidance, blood donor connect, women's health, and pancreas wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
